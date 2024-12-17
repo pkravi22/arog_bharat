@@ -1,0 +1,83 @@
+[
+    {
+      "id": 1,
+      "image": "/path/to/image1.jpg",
+      "price": "$100",
+      "hours": "20 hours",
+      "totalSadhkas": "500+",
+      "level": "Beginner",
+      "totalClasses": "10",
+      "features": ["Yoga Asanas", "Meditation", "Breathing Exercises", "Mindfulness"]
+    },
+    {
+      "id": 2,
+      "image": "/path/to/image2.jpg",
+      "price": "$150",
+      "hours": "30 hours",
+      "totalSadhkas": "800+",
+      "level": "Intermediate",
+      "totalClasses": "15",
+      "features": ["Yoga Asanas", "Advanced Breathing", "Pranayama", "Spiritual Growth"]
+    },
+    {
+      "id": 3,
+      "image": "/path/to/image3.jpg",
+      "price": "$120",
+      "hours": "25 hours",
+      "totalSadhkas": "600+",
+      "level": "Beginner",
+      "totalClasses": "12",
+      "features": ["Vinyasa Flow", "Strength Building", "Breathing Techniques", "Relaxation"]
+    },
+    {
+      "id": 4,
+      "image": "/path/to/image4.jpg",
+      "price": "$170",
+      "hours": "35 hours",
+      "totalSadhkas": "1000+",
+      "level": "Advanced",
+      "totalClasses": "18",
+      "features": ["Ashtanga Yoga", "Advanced Poses", "Strength & Flexibility", "Detox"]
+    },
+    {
+      "id": 5,
+      "image": "/path/to/image5.jpg",
+      "price": "$130",
+      "hours": "28 hours",
+      "totalSadhkas": "700+",
+      "level": "Intermediate",
+      "totalClasses": "14",
+      "features": ["Power Yoga", "Breath Control", "Stress Relief", "Cardio"]
+    },
+    {
+      "id": 6,
+      "image": "/path/to/image6.jpg",
+      "price": "$140",
+      "hours": "30 hours",
+      "totalSadhkas": "850+",
+      "level": "Beginner",
+      "totalClasses": "16",
+      "features": ["Hatha Yoga", "Posture Improvement", "Breathing", "Mental Clarity"]
+    },
+    {
+      "id": 7,
+      "image": "/path/to/image7.jpg",
+      "price": "$160",
+      "hours": "32 hours",
+      "totalSadhkas": "950+",
+      "level": "Intermediate",
+      "totalClasses": "17",
+      "features": ["Yoga Nidra", "Relaxation", "Deep Stretching", "Stress Management"]
+    },
+    {
+      "id": 8,
+      "image": "/path/to/image8.jpg",
+      "price": "$180",
+      "hours": "40 hours",
+      "totalSadhkas": "1200+",
+      "level": "Advanced",
+      "totalClasses": "20",
+      "features": ["Kundalini Yoga", "Chakra Healing", "Pranayama", "Spiritual Awakening"]
+    }
+  
+]
